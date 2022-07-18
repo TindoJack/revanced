@@ -60,6 +60,9 @@ hide-cast-button: Patch to hide the cast button.
 hide-watermark: Hide the creator's watermark on video's
 custom-playback-speed: Allows to change the default playback speed options.
 hdr-max-brightness: Set brightness to max for HDR videos in fullscreen mode.
+force-vp9-codec: Forces the VP9 codec for videos.
+sponsorblock: Integrate SponsorBlock.
+return-youtube-dislike: Shows the dislike count of videos using the Return YouTube Dislike API.
 ```
 
 **YT Music ReVanced Specific Patches**
